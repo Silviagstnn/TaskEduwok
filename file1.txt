@@ -1,1 +1,1 @@
-"Konten asli file pertama" 
+"saya belajar git" 
